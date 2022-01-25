@@ -6,6 +6,6 @@ What is TypeScript ? (blue javascript) 🔵
    
   <hr/>
   
-  <img align="center" src="Assets/2.png">
+  <img  src="Assets/2.png">
 
 </p>
